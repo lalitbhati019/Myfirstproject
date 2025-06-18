@@ -1,2 +1,6 @@
 # Myfirstproject
-This is my first repisotory
+This is my first repository
+<br>
+Author-Lalit Bhati
+
+
